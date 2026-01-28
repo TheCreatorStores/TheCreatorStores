@@ -1,0 +1,17 @@
+
+{
+  "name": "the-creator-stores",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An e-commerce platform for creators.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vercel/node": "^3.1.5",
+    "typescript": "^5.4.5"
+  }
+}
